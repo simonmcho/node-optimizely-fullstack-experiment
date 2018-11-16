@@ -4,6 +4,7 @@
 - NodeJS [Documentation here](https://nodejs.org/en/docs/)
 - JavaScript(ES6)
 - A/B testing [Read about A/B testing here](https://en.wikipedia.org/wiki/A/B_testing)
+- [OptimizelyX Account](https://www.optimizely.com/)
 - Optimizely's SDK [Documentation here](https://docs.developers.optimizely.com/full-stack/docs/welcome)
 
 ### How to get started
